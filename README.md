@@ -1,5 +1,4 @@
 # linode-KnockonIP
-linode-KnockonIP
 This script is for Chinese user to check accessasebility of linode VM's public IP address.
 
 ***Thank Teck for the creation part***
